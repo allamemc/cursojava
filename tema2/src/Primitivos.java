@@ -29,5 +29,6 @@ public class Primitivos {
         System.out.println("Valor mínimo de un long = " + Long.MIN_VALUE);
 
         var numeroVar = 9223372036854775807f;
+        System.out.println("numeroVar = " + numeroVar);
     }
 }
